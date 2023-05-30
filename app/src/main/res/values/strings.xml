@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Jetpack_Compose</string>
+    <string name="test_string">This is a test String</string>
+    <string name="hello_world">Hello World</string>
 </resources>
